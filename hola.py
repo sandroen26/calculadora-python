@@ -32,4 +32,4 @@ if resultado < 0:
 else:
     resultado
 
-print("hello world")
+print(resultado)
